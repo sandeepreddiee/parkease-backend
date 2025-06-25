@@ -35,3 +35,15 @@ out/
 
 ### VS Code ###
 .vscode/
+
+# Logs
+*.log
+
+# Environment
+.env
+application-prod.yml
+
+
+# Gradle
+.gradle/
+build/
